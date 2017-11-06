@@ -2,7 +2,7 @@
 
 Unamed Rebirth est un jeu développé en C++ (11), utilisant la SFML (2.4.2). 
 Nous voulons fournir un jeu comme vous n'en avez jamais vu auparavant, mixant Pokémon, Dragon Quest et Final Fantasy. 
-C'est bien entendu un jeu gratuit, et le code source de celui-ci est trouvable sous la [licence MIT](https://github.com/Loodoor/Unamed-Endive/blob/master/LICENSE).
+C'est bien entendu un jeu gratuit, et le code source de celui-ci est trouvable sous la [licence MIT](https://github.com/Loodoor/Unamed-Endive/blob/master/.github/LICENSE).
 
 <!-- ## Teasing du scénario -->
 
