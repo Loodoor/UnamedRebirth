@@ -1,3 +1,8 @@
+---
+author: Loodoor
+layout: default
+---
+
 ## Le jeu
 
 Unamed Rebirth est un jeu développé en C++ (11), utilisant la SFML (2.4.2). 
