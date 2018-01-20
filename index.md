@@ -2,14 +2,17 @@
 
 Unamed Rebirth est un jeu développé en C++ (11), utilisant la SFML (2.4.2). 
 Nous voulons fournir un jeu comme vous n'en avez jamais vu auparavant, mixant Pokémon, Dragon Quest et Final Fantasy. 
-C'est bien entendu un jeu gratuit, et le code source de celui-ci est trouvable sous la [licence MIT](https://github.com/Loodoor/Unamed-Endive/blob/master/LICENSE).
+C'est bien entendu un jeu gratuit, et le code source de celui-ci est trouvable sous la [licence MIT](https://github.com/SuperFola/Unamed-Endive/blob/master/LICENSE).
 
-<!-- ## Teasing du scénario -->
+## Scénario
+
+Il est consultable ici, en [version intégrale](https://annuel2.framapad.org/p/r.2f22b9dd7c2e90fba87beb60dc95e73f) (attention, spoilers !), et ici, 
+dans [les grandes lignes](https://lien-vers-le-scenario-raccourci) pour ne pas spoiler
 
 ## Créatures
 
 Nous avons 230 créatures exclusives dans ce jeu, toutes réalisées par [Smiley-Fakemon](http://smiley-fakemon.deviantart.com/), 
-que vous pouvez trouver [ici](https://github.com/Loodoor/Unamed-Endive/tree/master/assets/creatures).
+que vous pouvez trouver [ici](https://github.com/SuperFola/Unamed-Endive/tree/master/assets/creatures).
 
 Chaque créature a un type unique, parmi ceux-ci :
 
@@ -79,23 +82,23 @@ Tout cela viendra sûrement pour une V2 du projet ;)
 
 Pour que ce projet reste une grande aventure, nous avons besoin de vous !
 
-Si vous êtes développeur et souhaitez aider dans le développement du jeu, vous pouvez forker celui-ci sur [GitHub](https://github.com/Loodoor/Unamed-Endive) 
+Si vous êtes développeur et souhaitez aider dans le développement du jeu, vous pouvez forker celui-ci sur [GitHub](https://github.com/SuperFola/Unamed-Endive) 
 et dès que vous avez fait vos modifications, envoyez juste une *pull request* et je la vérifierai personnellement voir même la mergerai !
 
-Vous pouvez aussi télécharger [la dernière version](https://github.com/Loodoor/Unamed-Endive/releases) pour la tester, et si vous rencontrez un bug, 
+Vous pouvez aussi télécharger [la dernière version](https://github.com/SuperFola/Unamed-Endive/releases) pour la tester, et si vous rencontrez un bug, 
 (nous adorons les bugs), vous pouvez ouvrir une *issue*, avec de préférence toutes les étapes pour reproduire celui-ci (et aussi inclure le contenu de la console).
 
 ## Liens
 
 - [Roadmap du projet](https://trello.com/b/JdzEnDJf/unamed-endive)
 
-- [Twitter de Loodoor](https://twitter.com/Folaefolc)
+- [Twitter de SuperFola](https://twitter.com/SuperFola)
 
 - [Twitter du jeu](https://twitter.com/UnamedRebirth)
 
 ## Support
 
-Si vous avez besoin d'aide avec le jeu, voici un [wiki](https://github.com/Loodoor/Unamed-Endive/wiki) avec différentes ressources sur le *scripting* (si vous voulez modifier le jeu par exemple), les différents *contrôles* ... etc.
+Si vous avez besoin d'aide avec le jeu, voici un [wiki](https://github.com/SuperFola/Unamed-Endive/wiki) avec différentes ressources sur le *scripting* (si vous voulez modifier le jeu par exemple), les différents *contrôles* ... etc.
 Si vous souhaitez juste parler avec nous, n'hésitez pas à rejoindre notre [channel Discord](https://discord.gg/AWSWvgU) !
 
 
