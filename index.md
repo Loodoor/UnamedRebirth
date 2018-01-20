@@ -12,7 +12,7 @@ C'est bien entendu un jeu gratuit, et le code source de celui-ci est trouvable s
 ## Scénario
 
 Il est consultable ici, en [version intégrale](https://annuel2.framapad.org/p/r.2f22b9dd7c2e90fba87beb60dc95e73f) (attention, spoilers !), et ici, 
-dans [les grandes lignes](https://lien-vers-le-scenario-raccourci) pour ne pas spoiler
+dans [les grandes lignes](https://docs.google.com/document/d/1fBfcKFlSAXKackkd7RtaDpb6rbfFMGrr-yxylwiWxMU/edit?usp=sharing) pour ne pas spoiler.
 
 ## Créatures
 
