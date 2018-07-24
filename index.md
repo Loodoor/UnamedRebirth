@@ -80,19 +80,9 @@ Vous pouvez aussi télécharger [la dernière version](https://github.com/SuperF
 ## Liens
 
 - [Roadmap du projet](https://trello.com/b/JdzEnDJf/unamed-endive)
-- [Twitter de SuperFola](https://twitter.com/TheKafeDev)
-- [Twitter du jeu](https://twitter.com/UnamedRebirth)
+- [Twitter de SuperFola](https://twitter.com/lexplt)
+- [Twitter du jeu](https://twitter.com/Unamed_Rebirth)
 
 ## Support
 
 Si vous avez besoin d'aide avec le jeu, voici un [wiki](https://github.com/SuperFola/Unamed-Endive/wiki) avec différentes ressources sur le *scripting* (si vous voulez modifier le jeu par exemple), les différents *contrôles*... etc.
-
-
-
-
-
-
-
-
-
-
